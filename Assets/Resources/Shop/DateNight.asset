@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a308048bb1b969640b3b895f7a134219, type: 3}
+  m_Name: DateNight
+  itemName: Date Night
+  description: A romantic evening out. Boosts mood and your relationship.
+  icon: {fileID: 0}
+  cost: 150
+  energyCost: 2
+  happinessBonus: 10
+  healthBonus: 0
+  careerBonus: 0
+  relationshipBonus: 10
